@@ -1,5 +1,5 @@
 # Project Title
-Your project's title
+Good and positive deeds
 
 ## Student Information
 **Student number:** st10507668 <br>
@@ -20,25 +20,30 @@ Provides 24/7 availability: Unlike a physical store, a website is always accessi
 ## Timeline and Milestones
 
 
-. TIMELINES AND MILESTONES 
-TO BE COMPLETED BEFORE THE 20TH OF APRIL
-Planning
-Research
-Creating an html structure
-Designing
-TO BE COMPLETED BEFORE THE 29TH OF MAY
-Applying CSS styling
-Creating a responsive design
-Optimize for user experience
-Adding SEO
-TO BE COMPLETED DURING SECOND SEMESTER
-Implementation of java script
-Optimise for SEO
-Create functional forms
+wwek 1: Project planning and requirement analysis
+week 2: Created wireframes and website design in figma
+week 3: Developed html structure for webpages
+week 4: Created external css styling
+week 5: Implemented responsive design using media queries
+week 6: Added javasript functionality and search feature
+week 7: Implemented SEO features (robots.txt and sitemap.xml)
+week 8: Testing
+week 9: Github upload and documentation
+week 12: FInal project submission
+
+Milestones
+planning = defining the project and creating a wireframe
+Website development = builing all html files, applying css styling 
+Functionality = adding forms and adding images
+Testing = uploading the project on github 
 
 ## Sitemap
 
-<a><https://www.figma.com/design/uvynm4o3sLU6bRqAKC1ls8"><br> 
+GOOD AND POSITIVE DEEDS website is created to provide easy navigation and access to information about the organization and its services.
+website structire: Home(index.html) __Our history(our history.html)__Our people(our people.html)__What we do(what we do.html)__Contact(contact.html)__Enquiry(enquiry.html)
+The sitemap helps users and search engines understand the hierachy of the website pages.
+
+
 
 ## References
 

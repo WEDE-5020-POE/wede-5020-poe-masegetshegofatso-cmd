@@ -44,22 +44,38 @@ css styling2.1. Create a file called style.css. This is a consistent naming conv
 	Gap
 3.1 The code identifies breakpoints for desktop, tablet, and mobile. It uses media queries and changes multi-column layouts on smaller screens. It also adjusts font size, navigation and content layout.
 3.2 The code uses rem for font sizes, em for spacing a line height and % for widths. The benefits of this are better responsiveness, scales properly on different devices and improves accessibility.
-
+Sitemap.xml
+script.js
+gitattributes
 
 
 
 
 ### Changed
 BUDGET
+Added responsive designs
+Added search functionality
+Added interactive elements
+Added SEO features
+Improved website styling
 
 ### Fixed
-SITE 
+SITE Corrected navigation links between pages
+fixed form validation errors
+fixed mobile layout issues
+
 
 ## Semantic Versioning
 
 Format: MAJOR.MINOR.PATCH  
-Example: 2.1.3
+Current Version: 1.0.0
 
-- MAJOR → Breaking changes (1.0.0 → 2.0.0)  
-- MINOR → New features (1.0.0 → 1.1.0)  
-- PATCH → Bug fixes / small improvements (1.0.0 → 1.0.1)
+-MAJOR Significant changes or complete redesigns (1.0.0 to 2.0.0)
+-MINOR New features added to the website (1.0.0 to 1.1.0)
+-PATCH Bug fixes and small improvements (1.0.0 to 1.0.1)
+
+Version History:
+1.0.0 = Initial release of good and positive deeds website
+1.1.0 = Added responsive design and media queries
+1.1.1 = Fixed navigation and form validation issues
+1.2.0 = Added search functionality and SEO improvements

@@ -1,58 +1,27 @@
-!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 600px;
-            margin: 40px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-        }
-        input, textarea {
-            width: 100%;
-            padding: 10px;
-            margin: 10px 0;
-            border: 1px solid #ccc;
-        }
-        button {
-            width: 100%;
-            padding: 10px;
-            background-color: #2c3e50;
-            color: #fff;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #34495e;
-        }
-    </style>
-</head>
-<body>
+<form action="malito:info@masegetshegofatso@gmail.com"
+method="post"
+enctype="text/plain">
 
-<div class="container">
-    <h1>Contact Us</h1>
-    
-    <div class=""contact-info">
-        <p><strong>Address:</strong> Building no 38897 AA section 0318, Greenside Town, Rusternburg, NORTH West.</p>
-        <p><strong>Phone:</strong> 0640535031</p>
-        <p><strong>Email:</strong>masegetshegofatso@gmail.com<p>
-        <p><strong>Working Hours:</strong> 9:00 AM - 5:00 PM, Monday - Friday</p>
-        </p>
-    </div>   
-</div>
+<label>Full Name:</label>
+<input type="text" required>
 
-</body>
-</html>
+<label>Email:</label>
+<input type="email" required>
+
+<label>Message Type</label>
+
+<select required>
+    <option>General Enquiry</option>
+    <option>Complaint</option>
+    <option>Suggestion</option>
+</select>
+
+<label>Message:</label>
+
+<textarea rows="5"
+      maxlength="500"
+      required><</textarea>
+
+<button type="submit"
+  Send Message
+<button>
