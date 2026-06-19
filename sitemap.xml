@@ -1,13 +1,13 @@
-<urlset xmnls="https//www.sitemaps.org/schemas/sitemaps/0.9">
-
-  <url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
     <loc>https://www.goodandpositivedeeds.org/about-us.html</loc>
    </url>
-   
+
    <url>
     <loc>https://www.goodandpositivedeeds.org/our-history.html</loc>
    </url>
-   
+
    <url>
     <loc>https://www.goodandpositivedeeds.org/our-people.html</loc>
    </url>
@@ -21,8 +21,9 @@
    </url>
    
    <url>
-    <loc>https://www.goodandpositivedeeds.org/enquiry,html</loc>
+    <loc>https://www.goodandpositivedeeds.org/enquiry.html</loc>
    </url>
+</urlset>
 
 
 
